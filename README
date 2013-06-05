@@ -1,0 +1,18 @@
+[EIREXE'S custom source engine model repro (actually not source, but everything).]
+
+[Actual Projects]
+.-Sunny [Metal gear rising]
+.--See TODO in /sunny folder.
+
+[Tips]
+So here we are, i'm going to be fast here, if you work on something make sure it compiles into a working model.
+Then just commit it.
+If it doesn't work but it's a wip or you need help commit it as a new .max file
+
+[Don't want to use git]
+If you don't want to use git email your changes at eirexe123@gmail.com and i'll take a look and commit them for you.
+
+License:
+Attribution-NonCommercial-ShareAlike
+
+That goes for eveything here, even this readme.
