@@ -1,10 +1,5 @@
 $modelname "EIREXE/sunnyfinal3.mdl"
-$model "sunny_gurlukovich" "sunny.smd"{
-
-eyeball righteye "ValveBiped.Bip01_Head1" -1.362 -2.692 67.255 "ui0206004" 1 4 "ui0206004" 0.63
-
-
-}
+$model "sunny_gurlukovich" "sunny.smd"
 $cdmaterials "EIREXE\sunnyfinal\"
 $hboxset "default"
 $hbox 1 "ValveBiped.Bip01_Head1" -1.250  -6.500  -3.190  8.250  3.500  3.310
