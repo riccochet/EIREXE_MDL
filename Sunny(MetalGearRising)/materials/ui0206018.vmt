@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "EIREXE/sunnyfinal/ui0206018"
+	"$alphatest" "1"
+	
+	$halflambert 1
+	//$nodecal 1
+	//$model 1
+	
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" "0.1"
+	
+	//$basemapalphaphongmask 1
+	
+	$ambientocclusion 0
+	
+	$bumpmap "EIREXE/sunnyfinal/ui0206018_n"
+	$phongexpontenttexture "EIREXE/sunnyfinal/ui0206018_n"
+	$phong 1
+	$phongexponent 5
+	$phongboost 5.0
+	$phongfresnelranges	"[0 0.5 1]"
+	
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          .2
+}
