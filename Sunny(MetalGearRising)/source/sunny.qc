@@ -61,6 +61,13 @@ $includemodel "f_shd.mdl"
 $includemodel "f_ss.mdl"
 $includemodel "f_gst.mdl"
 $includemodel "f_pst.mdl"
+$includemodel "humans/female_shared.mdl"
+$includemodel "humans/female_ss.mdl"
+$includemodel "humans/female_gestures.mdl"
+$includemodel "humans/female_postures.mdl"
+$includemodel "alyx_animations.mdl"
+$includemodel "alyx_postures.mdl"
+$includemodel "alyx_gestures.mdl"
 $surfaceprop "flesh"
 $eyeposition 0.000 -0.000 70.000
 $illumposition -4.331 -6.924 43.009
