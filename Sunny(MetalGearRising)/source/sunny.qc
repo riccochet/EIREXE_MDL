@@ -1,5 +1,6 @@
 $modelname "EIREXE/sunnyfinal3.mdl"
 $model "sunny_gurlukovich" "sunny.smd"
+$scale 0.7
 $bodygroup headphones
 {
 	blank
@@ -7,6 +8,7 @@ $bodygroup headphones
 
 }
 $cdmaterials "EIREXE\sunnyfinal\"
+$cdmaterials "models\chell\"
 $hboxset "default"
 $hbox 1 "ValveBiped.Bip01_Head1" -1.250  -6.500  -3.190  8.250  3.500  3.310
 $hbox 4 "ValveBiped.Bip01_L_UpperArm" 0.000  -2.750  -2.750  12.510  1.750  2.250

@@ -1,0 +1,190 @@
+root ground: -2.5 -23 0 0 0 0
+root hips: 0 0 0 0 0 0
+spine lower: 0 0 0 0 0 0
+spine middle 1: 0 0 0 0 0 0
+spine middle 2: 0 0 0 0 0 0
+spine upper: 0 0 0 0 0 0
+head neck lower: -1 15.5 0.5 0 0 0
+head neck middle: 8 30 10 0 0 0
+head neck upper: 1.5 1 4 0 0 0
+head jaw: 0 0 0 0 0 0
+head tongue 1: 0 0 0 0 0 0
+head tongue 2: 0 0 0 0 0 0
+head chin: 0 0 0 0 0 0
+head cheek left 6: 0 0 0 0 0 0
+head lip lower left b: 0 0 0 0 0 0
+head lip lower middle b: 0 0 0 0 0 0
+head cheek left 5: 0 0 0 0 0 0
+head mouth corner l adj: 0 0 0 0 0 0
+head lip lower right b: 0 0 0 0 0 0
+head mouth corner r adj: 0 0 0 0 0 0
+head cheek right 6: 0 0 0 0 0 0
+head cheek right 5: 0 0 0 0 0 0
+head mouth corner right: 0 0 0 0 0 0
+head mouth corner left: 0 0 0 0 0 0
+head lip lower right: 0 0 0 0 0 0
+head lip lower right a: 0 0 0 0 0 0
+head lip lower left: 0 0 0 0 0 0
+head lip lower left a: 0 0 0 0 0 0
+head lip lower middle: 0 0 0 0 0 0
+head lip lower middle a: 0 0 0 0 0 0
+head eyebrows middle: 0 0 0 0 0 0
+head nose bridge: 0 0 0 0 0 0
+head eyebrow left 1: 0 0 0 0 0 0
+head eyebrow left 2: 0 0 0 0 0 0
+head eyebrow left 3: 0 0 0 0 0 0
+head nostril left: 0 0 0 0 0 0
+head eyelid left lower: 0 0 0 0 0 0
+head eyelid left lower a: 0 0 0 0 0 0
+head eyelid left upper: 0 0 0 0 0 0
+head cheek left 3: 0 0 0 0 0 0
+head cheek left 4: 0 0 0 0 0 0
+head nose left: 0 0 0 0 0 0
+head cheek left 1: 0 0 0 0 0 0
+head cheek left 2: 0 0 0 0 0 0
+head forehead left 1: 0 0 0 0 0 0
+head forehead left 2: 0 0 0 0 0 0
+head forehead middle: 0 0 0 0 0 0
+head lip upper middle b: 0 0 0 0 0 0
+head nasob left 1: 0 0 0 0 0 0
+head nasob left 2: 0 0 0 0 0 0
+head nasob right 1: 0 0 0 0 0 0
+head nasob right 2: 0 0 0 0 0 0
+head nostril right: 0 0 0 0 0 0
+head cheek right 1: 0 0 0 0 0 0
+head cheek right 3: 0 0 0 0 0 0
+head cheek right 4: 0 0 0 0 0 0
+head cheek right 2: 0 0 0 0 0 0
+head eyebrow right 1: 0 0 0 0 0 0
+head forehead right 1: 0 0 0 0 0 0
+head forehead right 2: 0 0 0 0 0 0
+head eyebrow right 2: 0 0 0 0 0 0
+head eyebrow right 3: 0 0 0 0 0 0
+head eyelid right upper: 0 0 0 0 0 0
+head eyelid right lower: 0 0 0 0 0 0
+head eyelid right low a: 0 0 0 0 0 0
+head eyeball right: -2 10.5493 0 -0.001 0 0
+head eyeball left: -4 6.964354 0 -0.001 0 0
+head eye corner left: 0 0 0 0 0 0
+head eye corner right: 0 0 0 0 0 0
+head lip upper right: 0 0 0 0 0 0
+head lip upper right a: 0 0 0 0 0 0
+head lip upper left: 0 0 0 0 0 0
+head lip upper left a: 0 0 0 0 0 0
+head lip upper middle: 0 0 0 0 0 0
+head lip upper middle a: 0 0 0 0 0 0
+hair left root: 0 0 0 0 0 0
+hair left 1a: 0 0 0 0 0 0
+hair left 1b: 0 0 0 0 0 0
+hair left 1c: 0 0 0 0 0 0
+hair left 1d: 0 0 0 0 0 0
+hair left 2a: 0 0 0 0 0 0
+hair left 2b: 0 0 0 0 0 0
+hair left 2c: 0 0 0 0 0 0
+hair left 2d: 0 0 0 0 0 0
+hair left 3a: 0 0 0 0 0 0
+hair left 3b: 0 0 0 0 0 0
+hair left 3c: 0 0 0 0 0 0
+hair left 3d: 0 0 0 0 0 0
+hair left 3e: 0 0 0 0 0 0
+hair left 4a: 0 0 0 0 0 0
+hair left 4b: 0 0 0 0 0 0
+hair left 4c: 0 0 0 0 0 0
+hair left 4d: 0 0 0 0 0 0
+hair left 4e: 0 0 0 0 0 0
+hair right root: 0 0 0 0 0 0
+hair right 6a: 0 0 0 0 0 0
+hair right 6b: 0 0 0 0 0 0
+hair right 6c: 0 0 0 0 0 0
+hair right 6d: 0 0 0 0 0 0
+hair right 6e: 0 0 0 0 0 0
+hair right 5a: 0 0 0 0 0 0
+hair right 5b: 0 0 0 0 0 0
+hair right 5c: 0 0 0 0 0 0
+hair right 5d: 0 0 0 0 0 0
+hair right 5e: 0 0 0 0 0 0
+hair right 4a: 0 0 0 0 0 0
+hair right 4b: 0 0 0 0 0 0
+hair right 4c: 0 0 0 0 0 0
+hair right 4d: 0 0 0 0 0 0
+hair right 3a: 0 0 0 0 0 0
+hair right 3b: 0 0 0 0 0 0
+hair right 3c: 0 0 0 0 0 0
+hair right 3d: 0 0 0 0 0 0
+hair right 1a: 0 0 0 0 0 0
+hair right 1b: 0 0 0 0 0 0
+hair right 1c: 0 0 0 0 0 0
+hair right 1d: 0 0 0 0 0 0
+hair right 2a: 0 0 0 0 0 0
+hair right 2b: 0 0 0 0 0 0
+hair right 2c: 0 0 0 0 0 0
+hair right 2d: 0 0 0 0 0 0
+hair ponytail 0: -46 -23.5 -28 0 0 0
+hair ponytail 1: 0 0 0 0 0 0
+hair ponytail 2: -19.5 -13 0 0 0 0
+hair ponytail 3: 0 0 0 0 0 0
+hair ponytail 4: 0 0 0 0 0 0
+hair ponytail 5: 0 0 0 0 0 0
+hair ponytail 6: 0 0 0 0 0 0
+hair ponytail 7: 0 0 0 0 0 0
+arm left shoulder 1: 0 0 0 0 0 0
+arm left shoulder 2: 24 -11 -81 0 0 0
+arm left elbow: -10 -44.5 3.5 0 0 0
+arm left low 1: 0 0 0 0 0 0
+arm left wrist adj: 0 0 0 0 0 0
+arm left wrist: 2 -4.5 0 0 0 0
+arm left finger 1a: 0 0 0 0 0 0
+arm left finger 1b: 9.5 11.5 3.5 0 0 0
+arm left finger 1c: 0 0 0 0 0 0
+arm left finger 2a: 0 0 0 0 0 0
+arm left finger 2b: -5.5 28 -38 0 0 0
+arm left finger 2c: 0 0 0 0 0 0
+arm left finger 3a: 0 0 0 0 0 0
+arm left finger 3b: 0 0 -25 0 0 0
+arm left finger 3c: 0 0 0 0 0 0
+arm left finger 4a: 0 0 0 0 0 0
+arm left finger 4b: 0 0 -38 0 0 0
+arm left finger 4c: 0 0 0 0 0 0
+arm left finger 5a: 0 0 0 0 0 0
+arm left finger 5b: 0 0 -23 0 0 0
+arm left finger 5c: 0 0 -9 0 0 0
+arm left shoulder adj 1: -5 0 0 0 0 0
+arm left shoulder adj 2: 0 0 0 0 0 0
+arm left up 1: 0 0 0 0 0 0
+arm right shoulder 1: 0 0 -6 0.018 0 0
+arm right shoulder 2: 19 -11 78 0 0 0
+arm right elbow: 4 63 0 0 0 0
+arm right wrist: 0 21 9 0 0 0
+arm right finger 1a: 0 11 0 0 0 0
+arm right finger 1b: 6.5 -32.5 -10 0 0 0
+arm right finger 1c: 0 -14 -3.5 0 0 0
+arm right finger 2a: 12 -6.5 80.5 0 0 0
+arm right finger 2b: 0 0 105.5 0 0 0
+arm right finger 2c: 0 0 79.5 0 0 0
+arm right finger 3a: 0 0 65 0 0 0
+arm right finger 3b: 0 0 110 0 0 0
+arm right finger 3c: 0 0 64 0 0 0
+arm right finger 4a: -13 0 55 0 0 0
+arm right finger 4b: 0 0 120 0 0 0
+arm right finger 4c: 0 0 36.5 0 0 0
+arm right finger 5a: 0 26 60.5 0 0 0
+arm right finger 5b: -38 -19 107.5 0 0 0
+arm right finger 5c: 0 0 55 0 0 0
+arm right low 1: 0 6 0 0 0 0
+arm right wrist adj: 0 0 4 0 0 0
+arm right shoulder adj 1: 4 1 9 0 0 0
+arm right shoulder adj 2: 0 0 0 0 0 0
+arm right up 1: 0 0 0 0 0 0
+arm left pit: 0 0 0 0 0 0
+arm right pit: 0 0 0 0 0 0
+breast left: 0 0 0 0 0 0
+breast right: 0 0 0 0 0 0
+pelvis: 0 0 0 0 0 0
+leg left thigh: -7 5.5 -0.5 0 0 0
+leg left knee: 0 0 0 0 0 0
+leg left ankle: 5.5 7 -1.5 0 0 0
+leg left toes: 0 0 0 0 0 0
+leg right thigh: 8 -4.5 -5.5 0 0 0
+leg right knee: 18 -15.5 6.5 0 0 0
+leg right ankle: 12 0 0 0 0 0
+leg right toes: -20.5 0 0 0 0 0

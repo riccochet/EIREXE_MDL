@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "EIREXE/sunnyfinal/ui0206001"
+	
+	$ambientocclusion 1
+	
+	$phong 1
+	$phongexponent 5
+	$phongboost 0
+	$phongfresnelranges "[0 0 0]"
+	$basemapalphaphongmask 1
+	$rimlight 0
+	
+
+}

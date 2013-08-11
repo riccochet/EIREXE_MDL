@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "EIREXE/sunnyfinal/ui0206009"
+	
+	$ambientocclusion 1
+	
+	
+	$bumpmap "EIREXE/sunnyfinal/ui0206009_n"
+	$phongexpontenttexture "EIREXE/sunnyfinal/ui0206009_n"
+	$phong 1
+	$phongexponent 20
+	$phongboost 5.0
+	$phongfresnelranges	"[0 0.5 1]"
+	
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          .2
+
+}
