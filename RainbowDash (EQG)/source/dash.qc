@@ -94,9 +94,14 @@ $model "human_dash" "dash.smd" {
 	flex "eyebrow_lower" frame 1
 	flexcontroller "phoneme" "eyebrow_lower" "range" 0 1
 	%eyebrow_lower = eyebrow_lower
+	eyeball righteye head -3.317 -4.35 64.824 RD_eye 1 4 RD_eye 0.66
+	eyeball leftteye head 0.979 -4.35 64.862 RD_eye 1 4 RD_eye 0.66
+	flexcontroller eyes range -45 45 eyes_updown
+	flexcontroller eyes range -45 45 eyes_rightleft
+
 	}
 $scale 0.7
-$cdmaterials "EIREXE\hdash\"
+$cdmaterials "models\EIREXE\hdash\"
 $hboxset "default"
 //hbox
 // Model uses material "ui0206009.vmt"
@@ -116,4 +121,6 @@ $surfaceprop "flesh"
 $eyeposition 0.000 -0.000 70.000
 $illumposition -4.331 -6.924 43.009
 $sequence ragdoll "dash" ACT_DIERAGDOLL 1 fps 30.00
+$attachment "righteye" "head" -3.317 -4.35 64.824
+$attachment "lefteye" "head" 0.979 -4.35 64.862
 //phymodel
